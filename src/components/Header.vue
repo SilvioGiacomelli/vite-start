@@ -1,14 +1,23 @@
+<script>
+import {store} from '../data/store'
+  export default {
+    data(){
+      return{
+        store,
+        nameToSearch:''
+      }
+    },
+    methods:{
+      
+    }
+  }
+</script>
 <template>
   <div>
 
   </div>
 </template>
 
-<script>
-  export default {
-    
-  }
-</script>
 
 <style lang="scss" scoped>
 
