@@ -13,12 +13,16 @@ import {store} from '../data/store'
   }
 </script>
 <template>
-  <div>
+  <main>
 
-  </div>
+  </main>
 </template>
 
 
 <style lang="scss" scoped>
+
+main{
+  background-color: #434343;
+}
 
 </style>
