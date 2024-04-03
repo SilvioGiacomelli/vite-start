@@ -21,8 +21,4 @@ import {store} from '../data/store'
 
 <style lang="scss" scoped>
 
-main{
-  background-color: #434343;
-}
-
 </style>
